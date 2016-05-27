@@ -1,0 +1,22 @@
+{
+  "name": "unraveling",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "edwins-leonardi <edwins.leonardi@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6"
+  }
+}
